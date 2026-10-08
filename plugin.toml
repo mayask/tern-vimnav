@@ -1,0 +1,6 @@
+schema = 1
+id = "vimnav"
+name = "Vim navigator"
+version = "0.1.0"
+description = "One set of keys for Neovim splits and Tern panes (vim-tmux-navigator for Tern)"
+window = "window.luau"
